@@ -2,6 +2,8 @@
 
 The app includes Server Actions, Infinite Scroll & Framer Motion Animations.
 
+## Link to Vercel: https://anime-world-next-js-framer-motion.vercel.app/
+
 ## Technologies used:
 
 - Next.js 14

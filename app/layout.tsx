@@ -1,16 +1,16 @@
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
 
-import Hero from "@/components/Hero";
+import Hero from "@/components/Hero"; // HEADER
 import Footer from "@/components/Footer";
 
 import "./globals.css";
 
-const dmSans = DM_Sans({ subsets: ["latin"] });
+const dmSans = DM_Sans({ subsets: ["latin"] }); // FONT
 
 export const metadata: Metadata = {
-  title: "Anime Vault",
-  description: "Your favorite anime, all in one place.",
+  title: "Anime World",
+  description: "Uncover The Wonders Of Anime's Universe",
 };
 
 export default function RootLayout({
